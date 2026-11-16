@@ -7,3 +7,5 @@ thay doi file tren nhanh practice
 Dong nay duoc them tu GitHub.
 
 chinh sua them tu github
+
+dong nay duoc them tu dong nghiep
