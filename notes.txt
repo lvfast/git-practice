@@ -5,3 +5,5 @@ thay doi thu hai
 thay doi file tren nhanh practice
 
 Dong nay duoc them tu GitHub.
+
+chinh sua them tu github
