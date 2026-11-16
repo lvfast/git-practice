@@ -3,3 +3,5 @@ thay doi dong dau tien tu ca master va practice
 thay doi thu hai
 
 thay doi file tren nhanh practice
+
+thay doi xong commit
