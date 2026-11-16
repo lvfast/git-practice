@@ -1,3 +1,5 @@
 thay doi dau tien 
 
 thay doi thu hai
+
+thay doi file tren nhanh practice
